@@ -15,6 +15,9 @@ import javax.persistence.Table;
 /*
  * commit + Push 
  */
+/*
+ * Test 4 commit und Push
+ */
 @Entity
 @Table(name="articles")
 public class Article implements Serializable { 
