@@ -9,6 +9,9 @@ import javax.persistence.Table;
 /*
  * Commmit testen
  */
+/*
+ * Commit testen 2
+ */
 @Entity
 @Table(name="articles")
 public class Article implements Serializable { 
