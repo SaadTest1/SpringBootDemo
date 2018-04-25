@@ -9,6 +9,7 @@ import com.concretepage.entity.Article;
 
 /*
  * Neue Änderungen in der Klasse ArticleService
+ * mnbmbmbmbmbmbm,b
  */
 @Service
 public class ArticleService implements IArticleService {
